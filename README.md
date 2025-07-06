@@ -53,7 +53,7 @@ I build **immersive experiences** and **robust systems**, with a knack for craft
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8kVyzkdxJ4Q/giphy.gif" width="280" alt="Coding Vibe" />
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" width="280" alt="Coding Vibe" />
 </div>
 
 ![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=00FF88)
