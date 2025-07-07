@@ -33,8 +33,8 @@ I build **immersive experiences** and **robust systems**, with a knack for craft
 
 ## 📊 GitHub Pulse
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moxyvv&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moxyvv&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
