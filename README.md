@@ -30,7 +30,7 @@ Full-stack developer who builds FiveM servers and web apps. Currently working wi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moxyvv&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moxyvv&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moxyvv&theme=dracula&hide_border=true&stroke=00D4AA" alt="GitHub Streak" />
 </div>
 
 <div align="center">
