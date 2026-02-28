@@ -6,6 +6,7 @@
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-moxydev.xyz-00D4AA?style=flat-square&logo=safari&logoColor=white)](https://moxydev.xyz/)
   [![Twitter](https://img.shields.io/badge/@praisemoxy-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/praisemoxy)
+  [![Email](https://img.shields.io/badge/moxycontact@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moxycontact@gmail.com)
 
 </div>
 
@@ -13,7 +14,7 @@
 
 ## About Me
 
-I'm **Moxy** — a full-stack developer focused on building FiveM servers, custom game scripts, and modern web applications. I work across the stack with Vue, Nuxt, TypeScript, and more.
+Founder of **Vanish LLC** (Est. 2019). Full-stack developer building FiveM servers, custom game scripts, and modern web applications.
 
 <br/>
 
