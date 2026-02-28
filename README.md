@@ -1,39 +1,122 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Moxy;Full-stack+Developer;FiveM+Server+Builder" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full-stack+Developer;FiveM+Server+Builder;Open+Source+Contributor" alt="Typing SVG" />
+
+  <br/>
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-moxydev.xyz-00D4AA?style=flat-square&logo=safari&logoColor=white)](https://moxydev.xyz/)
+  [![Twitter](https://img.shields.io/badge/@praisemoxy-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/praisemoxy)
+
 </div>
 
-# Hey, I'm Moxy 👋
+<br/>
 
-Full-stack developer who builds FiveM servers and web apps. Currently working with Vue, Nuxt, and TypeScript and many more.
+## About Me
 
-## What I'm working on
-- FiveM server development and custom scripts
-- Web applications with modern frameworks
-- Open source projects
+I'm **Moxy** — a full-stack developer focused on building FiveM servers, custom game scripts, and modern web applications. I work across the stack with Vue, Nuxt, TypeScript, and more.
 
-## Tech stack
+<br/>
+
+## Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br/><sub><b>Vue</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt" />
+      <br/><sub><b>Nuxt</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br/><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
+      <br/><sub><b>Svelte</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br/><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br/><sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br/><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br/><sub><b>Python</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua" />
+      <br/><sub><b>Lua</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br/><sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br/><sub><b>CSS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br/><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br/><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br/><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br/><sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## What I Do
+
+```
+🎮  FiveM — Custom scripts, frameworks, and full server builds
+🌐  Web — Modern apps with Vue/Nuxt, React, and TypeScript
+🛠️  Open Source — Contributing tools and resources to the community
+```
+
+<br/>
+
+## GitHub Stats
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moxyvv&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=moxyvv&theme=react&hide_border=true&background=0d1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" />
 </div>
 
-## Links
-- [Portfolio](https://moxydev.xyz/)
-- [Twitter](https://twitter.com/praisemoxy)
-
----
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moxyvv&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moxyvv&theme=dracula&hide_border=true&stroke=00D4AA" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moxyvv&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D4AA&line=00D4AA&point=ffffff" alt="Activity Graph" width="98%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://komarev.com/ghpvc/?username=moxyvv&style=flat-square&color=00D4AA&label=Profile+Views" alt="Profile Views" />
 </div>
