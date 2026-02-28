@@ -105,8 +105,7 @@ I'm **Moxy** — a full-stack developer focused on building FiveM servers, custo
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moxyvv&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=moxyvv&theme=react&hide_border=true&background=0d1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moxyvv&theme=react&hide_border=true&background=0d1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" />
 </div>
 
 <br/>
